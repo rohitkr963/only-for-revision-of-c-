@@ -77,5 +77,5 @@ int main() {
     else 
         printf("%d not found in the BST\n", key); 
         printf("Rohit kumar Roll no: 1323448\n"); 
-    return 0;
+    
 }
